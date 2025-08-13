@@ -9,7 +9,7 @@ You can check out the tool here: [Needleman-Wunsch Alignment Tool](https://sadia
 - **User-Friendly Interface**: Designed to be intuitive and simple, making it easy for students to use.
 - **Accurate Substitution Matrix**: Ensures reliable alignment results for most sequences.
 ![image alt](https://github.com/SadiaPikachu/Needleman-wunsch-alignment-tool/blob/ce841b3bf8a6d7945fb0155ded63514c544bb4fd/SEQ1.png)
-![image alt](https://github.com/SadiaPikachu/Needleman-wunsch-alignment-tool/blob/ce841b3bf8a6d7945fb0155ded63514c544bb4fd/SEQ2.png)
+![image alt](https://github.com/SadiaPikachu/Needleman-wunsch-alignment-tool/blob/d589008ebb6058df7c168f4f3ac0bec9659c2dd1/SEQ2.png)
 
 ## Limitations
 - **Accuracy**: The sequence alignment results may not always be correct, especially for sequences with repeating parts (e.g., ACGAA).
