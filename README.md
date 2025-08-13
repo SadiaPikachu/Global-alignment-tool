@@ -1,12 +1,15 @@
 # Global Alignment Tool
 
-## About the Project
+## About The Tool
 The **Global Alignment Tool** is designed to assist students in performing sequence alignment for academic projects and class assignments. Built with **HTML**, **CSS**, and **JavaScript**, the tool offers a clean and user-friendly interface for sequence analysis. It simplifies sequence comparison tasks and supports students in their learning, all without unnecessary complexity.
+You can check out the tool here: [Needleman-Wunsch Alignment Tool](https://sadiapikachu.github.io/Needleman-wunsch-alignment-tool/)
 
 ## Features
 - **Sequence Alignment**: Perform global sequence alignment with options to specify match/mismatch points and gap penalties.
 - **User-Friendly Interface**: Designed to be intuitive and simple, making it easy for students to use.
 - **Accurate Substitution Matrix**: Ensures reliable alignment results for most sequences.
+![image alt(https://github.com/SadiaPikachu/Needleman-wunsch-alignment-tool/blob/ce841b3bf8a6d7945fb0155ded63514c544bb4fd/SEQ1.png)]
+![image alt(https://github.com/SadiaPikachu/Needleman-wunsch-alignment-tool/blob/ce841b3bf8a6d7945fb0155ded63514c544bb4fd/SEQ2.png)]
 
 ## Limitations
 - **Accuracy**: The sequence alignment results may not always be correct, especially for sequences with repeating parts (e.g., ACGAA).
